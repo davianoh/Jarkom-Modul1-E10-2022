@@ -14,10 +14,9 @@
 - [Soal 5](#soal-5)
 - [Soal 6](#soal-6)
 - [Soal 7](#soal-7)
-- [Soal 8-10](#soal-8-10)
-    - [Soal 8](#soal-8)
-    - [Soal 9](#soal-9)
-    - [Soal 10](#soal-10)
+- [Soal 8](#soal-8)
+- [Soal 9](#soal-9)
+- [Soal 10](#soal-10)
 #### [Resource Soal](Resources)
 #### [Pembagian Tugas](#pembagian-tugas-1)
 #### [Revisi](#revisi-1)
@@ -76,7 +75,7 @@ Filter sehingga wireshark hanya mengambil paket yang berasal dari ip kalian!
 ![image](https://user-images.githubusercontent.com/71868354/192100698-9d512f6c-ff11-4c7b-b7be-6c0fd6da5397.png)
 
 
-## Soal 8-10
+### Soal 8 - 10
 Di sebuah planet bernama Viltrumite, terdapat Kementerian Komunikasi dan Informatika yang baru saja menetapkan kebijakan baru. Dalam kebijakan baru tersebut, pemerintah dapat mengakses data pribadi masyarakat secara bebas jika memang dibutuhkan, baik dengan maupun tanpa persetujuan pihak yang bersangkutan. Sebagai mahasiswa yang sedang melaksanakan program magang di kementerian tersebut, kalian mendapat tugas berupa penyadapan percakapan mahasiswa yang diduga melakukan tindak kecurangan dalam kegiatan Praktikum Komunikasi Data dan Jaringan Komputer 2022. Selain itu, terdapat sebuah password rahasia (flag) yang diduga merupakan milik sebuah organisasi bawah tanah yang selama ini tidak sejalan dengan pemerintahan Planet Viltrumite. Tunggu apa lagi, segera kerjakan tugas magang tersebut agar kalian bisa mendapatkan pujian serta kenaikan jabatan di kementerian tersebut!
 
 ### Soal 8
