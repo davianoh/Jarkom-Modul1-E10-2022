@@ -2,9 +2,9 @@
 
 | Nama                        | NRP        |
 |:---------------------------:|:----------:|
-| Yusron Nugroho Aji          | 5025201138 |
 | Davian Benito               | 5025201220 |
 | Fitra Agung Diassyah Putra  | 5025201072 |
+| Yusron Nugroho Aji          | 5025201138 |
 
 #### [Soal](#soal)
 - [Soal 1](#soal-1)
@@ -25,14 +25,14 @@
 ## Soal 1
 Sebutkan web server yang digunakan pada "monta.if.its.ac.id"!
 ### Jawaban
-- Gunakan display filter `tcp contains monta`
+- Gunakan display filter `tcp contains monta` untuk mendapatkan jawaban yang dicari
 ![image](https://user-images.githubusercontent.com/71868354/192100366-6d65200a-f857-4211-8569-1c9aac3ecfa2.png)
 - DItemukan server yang digunakan `nginx/1.10.3\r\n`
 
 ## Soal 2
 Ishaq sedang bingung mencari topik ta untuk semester ini , lalu ia datang ke website monta dan menemukan detail topik pada website “monta.if.its.ac.id” , judul TA apa yang dibuka oleh ishaq ?
 ### Jawaban
-- Gunakan display filter `tcp contains detailTopik`
+- Gunakan display filter `tcp contains detailTopik` untuk dapat menemukan judul detail topik yang dimaksud akan dilakukan search dengan urutan /index.php/topik/detailTopik/194 di website monta.if.its.ac.id
 ![image](https://user-images.githubusercontent.com/71868354/192100469-0b3a5501-646f-4f08-8829-1aa04b0e3c97.png)
 - Topik Tugas Akhir : Evaluasi unjuk kerja User Space Filesystem (FUSE) oleh WAHYU SUADI yang didapatkan dari Request URI : /index.php/topik/detailTopik/194
 
@@ -115,9 +115,9 @@ Flag nya adalah `JaRkOm2022{8uK4N_CtF_k0k_h3h3h3}`
 ## Pembagian Tugas
 | Nama                        | Nomor      |
 |:---------------------------:|:----------:|
-| Yusron Nugroho Aji          | 1, 2, 7    |
 | Davian Benito               | 8, 9, 10   |
 | Fitra Agung Diassyah Putra  | 3, 4, 5, 6 |
+| Yusron Nugroho Aji          | 1, 2, 7    |
 
 ## Revisi
 Tidak ada
