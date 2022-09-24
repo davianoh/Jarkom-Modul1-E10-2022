@@ -2,9 +2,9 @@
 
 | Nama                        | NRP        |
 |:---------------------------:|:----------:|
-| Yusron Nugroho Aji          | 5025201138 |
-| Davian Benito               | 5025201220 |
 | Fitra Agung Diassyah Putra  | 5025201072 |
+| Davian Benito               | 5025201220 |
+| Yusron Nugroho Aji          | 5025201138 |
 
 #### [Soal](#soal)
 - [Soal 1](#soal-1)
@@ -115,9 +115,9 @@ Flag nya adalah `JaRkOm2022{8uK4N_CtF_k0k_h3h3h3}`
 ## Pembagian Tugas
 | Nama                        | Nomor      |
 |:---------------------------:|:----------:|
-| Yusron Nugroho Aji          | 1, 2, 7    |
 | Davian Benito               | 8, 9, 10   |
 | Fitra Agung Diassyah Putra  | 3, 4, 5, 6 |
+| Yusron Nugroho Aji          | 1, 2, 7    |
 
 ## Revisi
 Tidak ada
